@@ -1,3 +1,9 @@
-const App = () => <div>React 기초</div>;
+import { State } from "./components";
+
+const App = () => (
+  <div>
+    <State />
+  </div>
+);
 
 export default App;
