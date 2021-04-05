@@ -1,8 +1,8 @@
-import { State } from "./components";
+import { Ref } from "./components";
 
 const App = () => (
   <div>
-    <State />
+    <Ref />
   </div>
 );
 
