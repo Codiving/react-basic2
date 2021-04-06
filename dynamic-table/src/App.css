@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+h3 {
+  margin-right: 30px;
+}
+
+.btn_group {
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+table td {
+  text-align: center;
+}
+
+.todo {
+  width: 350px;
+}
+
+input {
+  width: 100%;
+}
